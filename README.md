@@ -8,3 +8,4 @@ Yapp 스터디 git test
 - Fourth commit
 - Fifth commit
 - Sixth commit
+- Seventh commit
